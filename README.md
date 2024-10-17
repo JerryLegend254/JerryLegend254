@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Okuto Jeremy</h1>
 <h3 align="center">Fullstack developer</h3>
 
-- 🔭 I’m currently working on **Newspaper app in Django**
+- 🔭 I’m currently working on **An order processing system using EDD**
 
 - 🌱 I’m currently learning **Golang**
 
 - 👯 I’m looking to collaborate on **Anything in Go**
 
-- 💬 Ask me about **React, NodeJS, Figma**
+- 💬 Ask me about **Golang, React, NodeJS, Figma**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
