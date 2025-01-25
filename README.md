@@ -1,8 +1,11 @@
 ### Hi there 👋
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/f4275588-6319-447a-9ee0-0f73e2c82050" alt="gopher">
+</div>
+
 <h1 align="center">Hi 👋, I'm Okuto Jeremy</h1>
 <h3 align="center">Fullstack developer</h3>
-
-- 🔭 I’m currently working on **An order processing system using EDD**
 
 - 🌱 I’m currently learning **Golang**
 
@@ -19,6 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerrylegend254&show_icons=true&locale=en&layout=compact" alt="jerrylegend254" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerrylegend254&show_icons=true&locale=en" alt="jerrylegend254" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerrylegend254&" alt="jerrylegend254" /></p>
