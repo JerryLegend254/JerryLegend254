@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f4275588-6319-447a-9ee0-0f73e2c82050" alt="gopher">
+  <img src="https://github.com/user-attachments/assets/f4275588-6319-447a-9ee0-0f73e2c82050" alt="gopher" height="300">
 </div>
 
 <h1 align="center">Hi 👋, I'm Okuto Jeremy</h1>
